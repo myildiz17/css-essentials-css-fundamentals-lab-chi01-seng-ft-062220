@@ -19,3 +19,8 @@ h1 , nav, figure {
   /* Your code here! */
 background: red;
 }
+
+table {
+  border-collapse: separate;
+  border-spacing: 150px 0;
+}
